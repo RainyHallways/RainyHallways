@@ -14,24 +14,9 @@
 
 </details>
 
-<!--my introduction end -->
-
-<br>
-
-<!-- github stats
 <p align="center">
-  <a href="https://github.com/Charmve" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&title_color=333&text_color=777" alt="Charmve's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
-    --
-  </a>
-</p>
--->
-
-<p align="center">
-  <a href="https://github.com/Charmve" class="rich-diff-level-one">
-    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=RainyHallways&title_color=333&text_color=777" alt="Charmve's Stats" >
+  <a href="https://github.com/RainyHallways" class="rich-diff-level-one">
+    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=RainyHallways&title_color=333&text_color=777&show_icons=true" alt="RainyHallways's Stats" >
   </a>
 </p>
 
